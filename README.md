@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Gedion Zeyede, a full-stack developer with a strong focus on backend engineering. I’ve completed a full one-year Data Structures and Algorithms course at A2SV (African to Silicon Valley), building a solid understanding of how efficient and scalable systems work under the hood.<br><br>I enjoy working on backend systems using Go and Python, with an emphasis on clean architecture, performance, and reliability. I’m particularly interested in the design decisions behind scalable systems and enjoy solving problems that blend algorithmic thinking with real-world engineering.
+I'm Gedion Zedeye, a backend-focused developer with expertise in Go and Python. I completed a one-year Data Structures and Algorithms program at A2SV (African to Silicon Valley), which gave me a deep understanding of how scalable systems work under the hood. I'm drawn to the design decisions behind high-performance systems — where algorithmic thinking meets real-world engineering.
 
 
 ## 🌐 Socials:
